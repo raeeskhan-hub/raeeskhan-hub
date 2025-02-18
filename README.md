@@ -28,9 +28,7 @@
     <a href="https://www.trendmicro.com/en_us/business.html" target="_blank" rel="noreferrer">
         <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQop_dskqgvivTywdpgB85Yatu7JoTen5RPjg&s" alt="TrendMicro" width="40" height="40" />
     </a>
-    <a href="https://www.huawei.com/en/" target="_blank" rel="noreferrer">
-        <img src="https://images.seeklogo.com/logo-png/6/1/huawei-logo-png_seeklogo-68529.png" alt="huawei" width="40" height="40" />
-    </a>
+    
     <a href="https://www.huawei.com/en/" target="_blank" rel="noreferrer">
         <img src="https://static-00.iconduck.com/assets.00/cisco-icon-2048x2048-yvjuekbj.png" alt="cisco" width="40" height="40" />
     </a>
