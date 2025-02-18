@@ -62,4 +62,6 @@
         <li style="padding: 8px; border-bottom: 1px solid #ddd;">Islamabad Police – Data Center Deployment & Management</li>
     </ul>
 </div>
-<p>&
+<p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=raeeskhan-hub&show_icons=true&locale=en"           alt="raeeskhan-hub" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raeeskhan-hub&" alt="raeeskhan-hub" /></p>
