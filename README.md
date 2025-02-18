@@ -21,10 +21,7 @@
     </a>
     <a href="https://www.trendmicro.com/en_us/business.html" target="_blank" rel="noreferrer">
         <img src="https://images.ctfassets.net/aoyx73g9h2pg/2pgojF0xYbPiO90nEe6MQn/104a8dde7850fd7820d1fe25f2ee1a7a/1IzqGZkxtu1msh1CA4R3X_BpRTQa_FRu1_1-Featured-1024x572.jpg?w=3840&q=100" alt="azure" width="40" height="40"/>
-    </a>
-    <a href="https://www.huawei.com/en/" target="_blank" rel="noreferrer">
-        <img src="https://images.seeklogo.com/logo-png/6/1/huawei-logo-png_seeklogo-68529.png" alt="huawer" width="40" height="40"/>
-    </a>
+    </a>    
     <a href="https://www.huawei.com/en/" target="_blank" rel="noreferrer">
         <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTr_8D0USdYOb8gPEOyKDyQY2xP9UZVr8pdEA&s" alt="huawer" width="100" height="40"/>
     </a>
