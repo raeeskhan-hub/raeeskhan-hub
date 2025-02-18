@@ -1,13 +1,14 @@
-<h1 align="center">Hi 👋, I'm Raees Khan</h1>
-<h3 align="center">Defining Tomorrow with Secure and Scalable Solutions</h3>
-
-<div style="text-align: center;">
-    <img width="400" src="https://assets-v2.lottiefiles.com/a/f1e1a7d0-1d3d-11ee-91c5-27c399cace92/GFI1KJwTVS.gif" alt="raeeskhan-hub" />
-</div>
-
 <p align="center">
     <img src="https://komarev.com/ghpvc/?username=raeeskhan-hub&label=Profile%20views&color=0e75b6&style=flat" alt="raeeskhan-hub" />
 </p>
+<h1 align="center">Hi 👋, I'm Raees Khan</h1>
+<h3 align="center">Defining Tomorrow with Secure and Scalable Solutions</h3>
+
+<div style="text-align: right;">
+    <img width="400" src="https://assets-v2.lottiefiles.com/a/f1e1a7d0-1d3d-11ee-91c5-27c399cace92/GFI1KJwTVS.gif" alt="raeeskhan-hub" />
+</div>
+
+
 
 <p align="center">
     🔭 I’m currently working @Jazz <b>Solution Architect – Cloud & Cybersecurity</b>
