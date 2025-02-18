@@ -4,9 +4,7 @@
 <h1 align="center">Hi 👋, I'm Raees Khan</h1>
 <h3 align="center">Defining Tomorrow with Secure and Scalable Solutions</h3>
 
-<div style="text-align: right;">
-    <img width="400" src="https://assets-v2.lottiefiles.com/a/f1e1a7d0-1d3d-11ee-91c5-27c399cace92/GFI1KJwTVS.gif" alt="raeeskhan-hub" />
-</div>
+ <img align="right" width="400" src="https://assets-v2.lottiefiles.com/a/f1e1a7d0-1d3d-11ee-91c5-27c399cace92/GFI1KJwTVS.gif"     alt="raeeskhan-hub" />
 
 
 
